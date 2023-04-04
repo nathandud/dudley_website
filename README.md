@@ -1,16 +1,13 @@
-# dudley_website
+# Dudley Dev Diaries
 
-A new Flutter project.
+A website built with Flutter for Nathan Dudley's tech blog.
 
-## Getting Started
+## Why Flutter?
+ 
+You'll have to read the first post at [Dudley Dev Diaries](https://dudleydev.com)! ***TLDR***: I don't like writing
+JavaScript.
 
-This project is a starting point for a Flutter application.
+## How is it built?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Much of the website is customized from pre-built widgets from the community, especially these 
+[Flutter Templates](https://www.fluttertemplates.dev).

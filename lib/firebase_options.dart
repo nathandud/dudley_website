@@ -58,6 +58,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '945610088120',
     projectId: 'dudley-dev-website',
     authDomain: 'dudley-dev-website.firebaseapp.com',
+    databaseURL: 'https://dudley-dev-website-default-rtdb.firebaseio.com',
     storageBucket: 'dudley-dev-website.appspot.com',
     measurementId: 'G-9C5BP6V7GV',
   );

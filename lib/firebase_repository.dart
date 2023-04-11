@@ -1,0 +1,3 @@
+class FirebaseRepository {
+  // final baseUrl
+}

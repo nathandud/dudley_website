@@ -14,8 +14,7 @@ class BioSquare extends StatelessWidget {
 
   final double screenWidth;
 
-  final profileUrl =
-      "https://pbs.twimg.com/profile_images/1155688301120110598/tOoHcXfL_400x400.jpg";
+  final profileUrl = "https://avatars.githubusercontent.com/u/8878365?v=4";
 
   @override
   Widget build(BuildContext context) {

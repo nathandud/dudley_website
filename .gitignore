@@ -2,7 +2,8 @@
 ### Source: https://gist.github.com/dileepabandara/43f37affb84650a7e59ff04204c44aa8
 
 #Article
-/articles
+lib/load_article.dart
+lib/articles/*.md
 
 # Miscellaneous
 *.class
@@ -865,3 +866,4 @@ Temporary Items
 # Archives         - https://github.com/github/gitignore/blob/main/Global/Archives.gitignore
 # Backup           - https://github.com/github/gitignore/blob/main/Global/Backup.gitignore
 # JEnv             - https://github.com/github/gitignore/blob/main/Global/JEnv.gitignore
+

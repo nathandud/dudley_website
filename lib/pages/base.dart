@@ -56,7 +56,6 @@ class BasePage extends StatelessWidget {
                     child: SingleChildScrollView(
                       child: body,
                     ),
-                    // child: Markdown(data: testData),
                   ),
                 ),
               ],
